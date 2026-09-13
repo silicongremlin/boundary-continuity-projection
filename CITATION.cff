@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use this software artifact, please cite the associated research lineage or repository release."
+title: "Boundary Continuity in Projected Latent State"
+type: software
+version: 1.0.0
+abstract: "A controlled simulation of boundary-conditioned dynamics, latent phase, and lower-dimensional projection."
